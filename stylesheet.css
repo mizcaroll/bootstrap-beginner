@@ -1,0 +1,48 @@
+.jumbotron {
+  background: url("pink cake.jpg");
+  background-size: cover;
+  border-radius: 0px;
+  height: 100%;
+}
+.row {
+  background-color: peachpuff;
+}
+.btn {
+  margin: 5px;
+}
+.col1 {
+  margin: 3px;
+  min-height: 300px;
+  text-align: center;
+  background-color: silver;
+}
+.col2 {
+  margin: 3px;
+  min-height: 300px;
+  text-align: center;
+  background-color: red;
+}
+.col3 {
+  margin: 3px;
+  min-height: 300px;
+  text-align: center;
+  background-color: pink;
+}
+.col4 {
+  margin: 3px;
+  min-height: 300px;
+  text-align: center;
+  background-color: yellow;
+}
+.col5 {
+  margin: 3px;
+  min-height: 300px;
+  text-align: center;
+  background-color: green;
+}
+.col6 {
+  margin: 3px;
+  min-height: 300px;
+  text-align: center;
+  background-color: orange;
+}
